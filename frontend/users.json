@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "c4f4",
+      "username": "_VenkataKrishna_",
+      "password": "Venkat",
+      "dob": "2026-01-01",
+      "email": "24071a1273@vnrvjiet.in"
+    },
+    {
+      "id": "6926",
+      "username": "Krishna",
+      "password": "Krishh",
+      "dob": "2026-01-03",
+      "email": "24071a1273@gmail.com"
+    },
+    {
+      "id": "834a",
+      "username": "_VenkataKrishna_",
+      "password": "ea5uq4",
+      "dob": "2026-01-02",
+      "email": "24071a1266@vnrvjiet.in"
+    }
+  ]
+}
